@@ -1,0 +1,5 @@
+
+final_proyect-env/
+.env/
+.vscode/
+**__pycache__/
